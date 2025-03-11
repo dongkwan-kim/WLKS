@@ -1,6 +1,6 @@
 # WLKS
 
-Official implementation of Weisfeiler-Lehman Kernels to Subgraphs (WLKS) from "Generalizing Weisfeiler-Lehman Kernels to Subgraphs", International Conference on Learning Representation (ICLR 2025).
+Official implementation of Weisfeiler-Lehman Kernels to Subgraphs (WLKS) from ["Generalizing Weisfeiler-Lehman Kernels to Subgraphs"](https://openreview.net/forum?id=HZgZrtIreg), International Conference on Learning Representation (ICLR 2025).
 
 ## BibTeX
 
