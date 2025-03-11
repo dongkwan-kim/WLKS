@@ -17,4 +17,4 @@ Official implementation of Weisfeiler-Lehman Kernels to Subgraphs (WLKS) from ["
 
 ## Codes, Datasets, Instructions
 
-All materials are included in https://github.com/dongkwan-kim/S2N/tree/wlks/WLKS
+All materials are included in [https://github.com/dongkwan-kim/S2N/tree/wlks/WLKS](https://github.com/dongkwan-kim/S2N/tree/wlks/WLKS).
